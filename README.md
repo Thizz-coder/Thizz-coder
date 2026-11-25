@@ -11,33 +11,30 @@
 
 I'm a Brazilian software developer with professional experience in Robotic Process Automation (RPA), system integration and software development at Capgemini.
 
-I enjoy developing solutions that automate repetitive tasks, optimize business processes and improve operational efficiency.
+I'm passionate about technology and developing solutions that automate repetitive tasks, optimize business processes and improve operational efficiency.
 
-I'm currently pursuing a degree in Systems Analysis and Development, continuously improving my skills in backend development, software architecture and emerging technologies.
+I'm currently pursuing a degree in Systems Analysis and Development, continuously improving my technical skills and expanding my knowledge in software development and emerging technologies.
 
 ---
 
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,mysql,git,github,gitlab,visualstudio,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,js,html,css,mysql,git,github,gitlab,visualstudio,vscode,postman,selenium&theme=dark&perline=7" />
 </p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/UiPath-FA4616?style=for-the-badge&logo=uipath&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-161B22?style=for-the-badge" />
 </p>
 
 ---
 
 ## 💼 What I do
 
+- Software Development with C# and .NET
 - Robotic Process Automation (RPA)
 - Business Process Automation
-- System and API Integration
-- Backend Development with C# and .NET
+- System Integration
 - Software Maintenance and Refactoring
 - Version Control and Collaborative Development
 
@@ -45,13 +42,16 @@ I'm currently pursuing a degree in Systems Analysis and Development, continuousl
 
 ## 🎓 Education
 
-**Systems Analysis and Development**  
+**Systems Analysis and Development**
+
 Undergraduate degree — In progress
+
+---
 
 ## 📚 Currently learning
 
-- Software Architecture
 - Backend Development
+- Software Architecture
 - Cloud Computing
 - Artificial Intelligence
 
@@ -71,5 +71,8 @@ Undergraduate degree — In progress
 <p align="left">
   <a href="https://github.com/Thizz-coder">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/thiagopiress/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
