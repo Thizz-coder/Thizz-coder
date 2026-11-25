@@ -57,15 +57,6 @@ Undergraduate degree — In progress
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Thizz-coder&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thizz-coder&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## 🔗 Connect with me
 
 <p align="left">
